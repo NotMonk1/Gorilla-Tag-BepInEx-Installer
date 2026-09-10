@@ -8,7 +8,7 @@ if "%1"=="--credits" (
     title BepInEx Installer - Credits
     echo ----------------------------------------------------
     echo  BepInEx Installer forked from the iiMenu installer
-    echo  github.com/NotMonk1/gtag-bepinex-installer
+    echo  github.com/NotMonk1/Gorilla-Tag-BepInEx-Installer/
     echo ----------------------------------------------------
     echo.
     echo  Credits:
@@ -73,7 +73,7 @@ cls
 title BepInEx Installer -- Done!
 echo.
 echo  BepInEx Installer
-echo  github.com/NotMonk1/gtag-bepinex-installer
+echo  github.com/NotMonk1/Gorilla-Tag-BepInEx-Installer/
 echo.
 echo  Done! BepInEx is installed.
 echo.
