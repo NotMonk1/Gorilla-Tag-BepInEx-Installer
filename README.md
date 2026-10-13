@@ -31,6 +31,7 @@ This script is for people who want a seamless automatic BepInEx install (for gor
 
   Yes! **BUT** there are rules.
 
-  You must follow the GNU License and must be open source (**DO NOT CREDIT ME CREDIT THE DEVS OF [iiMenu Reborn](https://github.com/iireborn/iis.Stupid.Menu/tree/main?tab=readme-ov-file)**)
+  You must follow the GNU License and must be open source (**DO NOT CREDIT ME CREDIT THE DEVS OF [POISON](https://github.com/heycanihavethis/Poison/)**)
+  [Link directly to Poisons Installer](https://github.com/heycanihavethis/Poison/blob/master/installer.bat)
 
 </details>
